@@ -52,6 +52,11 @@ body {
     color: var(--color-green);
 }
 
+._fl-head_about a:last-child:hover {
+    transition: 0.5s;
+    color: var(--color-ZYoYYin);
+}
+
 ._fl-head_brand {
     padding: 20px 15px;
 }
