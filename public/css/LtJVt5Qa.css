@@ -33,7 +33,7 @@ body {
 
 ._flcompy-header a:hover, ._flcompy-footer a:hover {
     transition: 0.5s;
-    color: var(--color-ZYoYYin);
+    color: var(--color-ZYoYYin) !important;
 }
 
 ._fl-head_about, ._fl-footer-about {
